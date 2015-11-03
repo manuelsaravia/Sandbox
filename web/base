@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sandbox Advisor</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="diseno/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="diseno/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="diseno/css/style.css">
+        <link rel="shortcut icon" href="diseno/images/favicon.ico">
+
+
+		
+	</head>
+        <body>
+            
+            
+            <script src="diseno/js/jquery.js"></script>
+            <script src="diseno/js/bootstrap.min.js"></script>
+           
+        </body>
+</html>

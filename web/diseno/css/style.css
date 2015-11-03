@@ -1,0 +1,42 @@
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.black{
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+#footer{
+    border-top: 3px solid #F2F2F2 ;
+    width: 80%;
+    margin:0 auto;
+    margin-top: 3%;
+}
+
+#borde-gris{
+    border-color: #969191;
+    border-width: medium;
+    border-style: solid;
+}
+
+#panel-gris{
+    background-color: #DADADA;
+    border-color: #969191;
+    border-width: thin;
+    border-style: solid;
+}
+
+#panel{
+    margin-top: -100px;
+    margin-left: 0px;
+}
